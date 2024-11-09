@@ -1,0 +1,7 @@
+name = "test_for_wavkins"
+uuid = "0c1bd086-cbb1-462c-afda-4deea8814de7"
+authors = ["Giorgio Krstulovic <krstulovic@oca.eu>"]
+version = "0.1.0"
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
