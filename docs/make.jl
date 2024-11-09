@@ -10,5 +10,5 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/USEgkrstulovicR_NAME/test_for_wavkins.jl.git",
+    repo = "github.com/gkrstulovic/test_for_wavkins.jl.git",
 )
