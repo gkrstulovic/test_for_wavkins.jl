@@ -8,3 +8,7 @@ makedocs(
         format=Documenter.HTML(prettyurls=true),
         remotes=nothing
 )
+
+deploydocs(
+    repo = "github.com/USEgkrstulovicR_NAME/test_for_wavkins.jl.git",
+)
